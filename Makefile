@@ -4,9 +4,9 @@ SRCS	=  	push_swap.c\
 			push_swap_val.c\
 			utils_list.c\
 			utils.c\
-			algorythm_big.c\
-			algorythm_small.c\
-			sort_chunk.c\
+			chunk_algorythm.c\
+			chunk_utils.c\
+			small_n_algorythm.c\
 			push.c\
 			rotate.c\
 			swap.c\
